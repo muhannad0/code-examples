@@ -1,6 +1,6 @@
 # Example: Securely build Docker images for Node.js projects
 
-This is an example for [the post on my website about "Securely Installing Private Packages in Node.js Docker Builds"]().
+This is an example for [the post on my website about "Securely Installing Private Packages in Node.js Docker Builds"](https://muhannad.io/post/2024/04/secure-docker-build-secrets/).
 
 # Development
 
